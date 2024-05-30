@@ -1,5 +1,7 @@
 # Data-Driven Simulator for Mechanical Circulatory Support with Domain Adversarial Neural Process
 
+### [Arxiv version with appendix](https://arxiv.org/abs/2405.18536)
+
 This repository contains code for the Domain Adversarial Neural Process (DANP) and various baselines reported in the paper, *Data-Driven Simulator for Mechanical Circulatory Support with Domain Adversarial Neural Process*. The data used in this project cannot be shared publicly due to privacy and confidentiality agreements. However, we provide the necessary scripts and instructions to run the model with your own data.
 
 
